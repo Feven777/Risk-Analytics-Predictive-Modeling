@@ -7,7 +7,6 @@ tzdata==2025.2
 matplotlib
 scipy
 scikit-learn
-yfinance
 tqdm
 nltk
 vaderSentiment
