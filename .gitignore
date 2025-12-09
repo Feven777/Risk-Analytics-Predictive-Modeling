@@ -6,3 +6,4 @@ dvc_storage/
 data/*.txt
 !.dvc/config
 !.dvcignore
+.dvc/tmp/
