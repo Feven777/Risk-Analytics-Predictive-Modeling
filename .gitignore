@@ -4,6 +4,8 @@
 .dvc/cache/
 dvc_storage/
 data/*.txt
+data/*.png
+data/*.csv
 !.dvc/config
 !.dvcignore
 .dvc/tmp/
